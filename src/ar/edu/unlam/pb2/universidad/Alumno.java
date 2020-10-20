@@ -12,12 +12,6 @@ public class Alumno {
 	}
 
 	
-	
-	@Override
-	public String toString() {
-		return "Alumno [dni=" + dni + ", apellido=" + apellido + "]";
-	}
-
 
 
 	public Long getDni() {
